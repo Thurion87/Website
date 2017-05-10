@@ -948,8 +948,8 @@ ul.nostyle i {
 
 .carousel-inner {
 
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: auto;
+  margin-right: auto;
   
 }
 
@@ -966,8 +966,4 @@ ul.nostyle i {
   margin: auto;
 }*/
 
-.testdiv{
-  width: 30px;
-  height: 30px;
-  background-color: red;
 }
